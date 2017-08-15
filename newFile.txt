@@ -1,4 +1,8 @@
 some text! 
 A new sentence! Some additional text.
 A very important final line!
+<<<<<<< HEAD
 Added correct text!
+=======
+Added wrong text!
+>>>>>>> extra_text
